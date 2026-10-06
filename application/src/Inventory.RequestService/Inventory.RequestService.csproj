@@ -1,0 +1,7 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <ItemGroup>
+    <ProjectReference Include="..\Inventory.Shared\Inventory.Shared.csproj" />
+  </ItemGroup>
+
+</Project>
